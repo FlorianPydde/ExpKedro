@@ -1,4 +1,4 @@
-ipython>=7.0.0, <8.0
+IPython>=8.10
 jupyter>=1.0.0, <2.0
 jupyter_client>=5.1.0, <6.0
 jupyterlab==1.2.21
